@@ -1,0 +1,28 @@
+.block{
+    text-align: center;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: rgb(127, 210, 255);
+    height: 500px;
+    margin-top: 5%;
+    border-radius: 55px;
+}
+h1{
+    background-color: rgb(57, 98, 98);
+    color: whitesmoke;
+    height: 50px;
+    text-align: center;
+    border-radius: 55px;
+}
+button{
+    border-radius: 25px;
+    padding: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    word-spacing: 5px;
+}
+#question{
+    
+    height: 50px;
+    margin: 5%;
+}
